@@ -25,7 +25,7 @@ const AboutSection = () => {
               </p>
               
               <p>
-                Her thought leadership in governance frameworks and his commitment to developing next-generation audit professionals has made him a sought-after speaker and mentor in the industry.
+                Her thought leadership in governance frameworks and her commitment to developing next-generation audit professionals has made him a sought-after speaker and mentor in the industry.
               </p>
             </div>
             
